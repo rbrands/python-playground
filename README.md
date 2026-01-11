@@ -24,11 +24,22 @@ Explore data science with popular libraries:
 
 ## 🚀 Getting Started
 
-### Prerequisites
+### Option 1: GitHub Codespaces (Recommended)
+The easiest way to get started is using GitHub Codespaces:
+
+1. Click the **Code** button on the GitHub repository
+2. Select **Codespaces** tab
+3. Click **Create codespace on main**
+
+The development environment will be automatically configured with Python 3.12 and all dependencies installed!
+
+### Option 2: Local Installation
+
+#### Prerequisites
 - Python 3.8 or higher
 - pip (Python package installer)
 
-### Installation
+#### Installation
 
 1. Clone the repository:
 ```bash
