@@ -102,6 +102,7 @@ def working_with_data():
     print("=== Working with Sample Data ===\n")
     
     # Create sample sales data
+    # Note: 'ME' is month-end frequency (pandas 2.2+). Use 'M' for older versions.
     dates = pd.date_range('2024-01-01', periods=12, freq='ME')
     sales_data = {
         'month': dates,
