@@ -31,7 +31,7 @@ The easiest way to get started is using GitHub Codespaces:
 2. Select **Codespaces** tab
 3. Click **Create codespace on main**
 
-The development environment will be automatically configured with Python 3.12 and all dependencies installed!
+The development environment will be automatically configured with Python 3.14 and all dependencies installed!
 
 ### Option 2: Local Installation
 
