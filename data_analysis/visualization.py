@@ -30,9 +30,9 @@ def line_plot():
     plt.legend()
     plt.grid(True, alpha=0.3)
     
-    plt.savefig('/tmp/line_plot.png', dpi=100, bbox_inches='tight')
+    plt.savefig('./tmp/line_plot.png', dpi=100, bbox_inches='tight')
     plt.close()
-    print("Saved: /tmp/line_plot.png\n")
+    print("Saved: ./tmp/line_plot.png\n")
 
 def bar_chart():
     """Create a bar chart."""
@@ -56,7 +56,7 @@ def bar_chart():
     plt.ylabel('Revenue ($)', fontsize=12)
     plt.grid(axis='y', alpha=0.3)
     
-    plt.savefig('/tmp/bar_chart.png', dpi=100, bbox_inches='tight')
+    plt.savefig('./tmp/bar_chart.png', dpi=100, bbox_inches='tight')
     plt.close()
     print("Saved: /tmp/bar_chart.png\n")
 
@@ -84,7 +84,7 @@ def scatter_plot():
     plt.legend()
     plt.grid(True, alpha=0.3)
     
-    plt.savefig('/tmp/scatter_plot.png', dpi=100, bbox_inches='tight')
+    plt.savefig('./tmp/scatter_plot.png', dpi=100, bbox_inches='tight')
     plt.close()
     print("Saved: /tmp/scatter_plot.png\n")
 
@@ -118,7 +118,7 @@ def multiple_subplots():
     axes[1, 1].grid(True, alpha=0.3)
     
     plt.tight_layout()
-    plt.savefig('/tmp/subplots.png', dpi=100, bbox_inches='tight')
+    plt.savefig('./tmp/subplots.png', dpi=100, bbox_inches='tight')
     plt.close()
     print("Saved: /tmp/subplots.png\n")
 
@@ -137,7 +137,8 @@ def pie_chart():
     plt.title('Product Sales Distribution', fontsize=16)
     plt.axis('equal')
     
-    plt.savefig('/tmp/pie_chart.png', dpi=100, bbox_inches='tight')
+    plt.savefig('./tmp/pie_chart.png', dpi=100, bbox_inches='tight')
+    plt.show()
     plt.close()
     print("Saved: /tmp/pie_chart.png\n")
 
