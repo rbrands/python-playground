@@ -24,7 +24,7 @@ Explore data science with popular libraries:
 
 ### 📊 Jupyter Notebook
 Data Science with Jupyter Notebooks. The environment has been enabled to use Jupyter Notebooks.
-- **example_notebook.jpynb** - Simple notebook as starter.
+- **notebooks/example_notebook.jpynb** - Simple notebook as starter.
 
 ## 🚀 Getting Started
 
