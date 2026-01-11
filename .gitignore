@@ -78,6 +78,14 @@ target/
 # Jupyter Notebook
 .ipynb_checkpoints
 
+# Temporary output files (plots, charts, etc.)
+**/tmp/
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+
 # IPython
 profile_default/
 ipython_config.py
