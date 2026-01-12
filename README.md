@@ -1,7 +1,8 @@
 # Python Playground
 
 A comprehensive Python learning environment that takes you from "Hello World" to data analysis. This repository contains practical examples organized by difficulty level, perfect for learning Python or experimenting with new concepts.
-
+For further learning see the book [Python for Data Analysis](https://wesmckinney.com/book/) from Wes McKinney
+ 
 ## 📚 Contents
 
 ### 🌱 Basics
