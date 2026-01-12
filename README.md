@@ -22,9 +22,10 @@ Explore data science with popular libraries:
 - **pandas_basics.py** - DataFrames and data manipulation
 - **visualization.py** - Creating charts and plots with Matplotlib
 
-### 📊 Jupyter Notebook
+### 📊 Jupyter Notebooks
 Data Science with Jupyter Notebooks. The environment has been enabled to use Jupyter Notebooks.
-- **notebooks/example_notebook.jpynb** - Simple notebook as starter.
+- **example_notebook.jpynb** - Simple notebook as starter.
+- **machine_learning_iris_flowers** - Machine Learning with the public standard learning dataset
 
 ## 🚀 Getting Started
 
