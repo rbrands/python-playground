@@ -9,6 +9,7 @@ openpyxl>=3.0.0
 # Azure Storage support
 azure-storage-blob>=12.17.0
 azure-identity>=1.14.0
+python-dotenv>=1.0.0
 
 # Optional: Additional data science libraries
 scipy>=1.10.0
