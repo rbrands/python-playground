@@ -2,7 +2,7 @@
 
 A comprehensive Python learning environment that takes you from "Hello World" to data analysis. This repository contains practical examples organized by difficulty level, perfect for learning Python or experimenting with new concepts.
 For further learning see the book [Python for Data Analysis](https://wesmckinney.com/book/) from Wes McKinney
- 
+
 ## 📚 Contents
 
 ### 🌱 Basics
@@ -27,6 +27,7 @@ Explore data science with popular libraries:
 Data Science with Jupyter Notebooks. The environment has been enabled to use Jupyter Notebooks.
 - **example_notebook.jpynb** - Simple notebook as starter.
 - **machine_learning_iris_flowers** - Machine Learning with the public standard learning dataset
+- **azure_blob_storage.ipynb** - Demonstrates a typical Machine Learning workflow with Azure Blob Storage
 
 ## 🚀 Getting Started
 
