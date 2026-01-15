@@ -1,0 +1,16 @@
+# CODEOWNERS
+# This file defines who can review and approve pull requests
+# See: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+
+# Repository owner is the default code owner for everything
+* @rbrands
+
+# All Python files
+*.py @rbrands
+
+# Configuration files
+*.txt @rbrands
+*.md @rbrands
+
+# Jupyter notebooks
+*.ipynb @rbrands
