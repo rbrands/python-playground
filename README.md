@@ -119,6 +119,12 @@ All dependencies are listed in `requirements.txt`.
 
 Feel free to experiment, modify, and extend these examples! This is a playground after all.
 
+### Pull Request Guidelines
+This repository requires all changes to be submitted via Pull Requests:
+- All PRs require review and approval from @rbrands
+- Direct pushes to the `main` branch are not allowed
+- See [Branch Protection Setup](.github/BRANCH_PROTECTION_SETUP.md) for configuration details
+
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
