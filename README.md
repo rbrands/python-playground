@@ -28,6 +28,7 @@ Data Science with Jupyter Notebooks. The environment has been enabled to use Jup
 - **example_notebook.jpynb** - Simple notebook as starter.
 - **machine_learning_iris_flowers** - Machine Learning with the public standard learning dataset
 - **azure_blob_storage.ipynb** - Demonstrates a typical Machine Learning workflow with Azure Blob Storage
+- **excel_and_csv.ipynb** - Shows how to read Excel and CSV files
 
 ## 🚀 Getting Started
 

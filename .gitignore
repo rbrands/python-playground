@@ -222,3 +222,7 @@ __marimo__/
 *.hdf5
 *.parquet
 
+# Exception: Include training data examples
+!notebooks/data/Trainingsdata-Winter-2025-26.csv
+!notebooks/data/Trainingsdata-Winter-2025-26.xlsx
+
