@@ -26,9 +26,11 @@ Explore data science with popular libraries:
 ### 📊 Jupyter Notebooks
 Data Science with Jupyter Notebooks. The environment has been enabled to use Jupyter Notebooks.
 - **example_notebook.jpynb** - Simple notebook as starter.
-- **machine_learning_iris_flowers** - Machine Learning with the public standard learning dataset
+- **numpy_comprehensive.ipynb** - Comprehensive NumPy tutorial covering arrays, operations, linear algebra, statistics, and more
+- **machine_learning_iris_flowers.ipynb** - Machine Learning with the public standard learning dataset
 - **azure_blob_storage.ipynb** - Demonstrates a typical Machine Learning workflow with Azure Blob Storage
 - **excel_and_csv.ipynb** - Shows how to read Excel and CSV files
+- **visualization.ipynb** - Matplotlib inline plots (line, bar, scatter, subplots, pie, box, stacked area, correlation heatmap) with Pandas integration
 
 ## 🚀 Getting Started
 
@@ -105,6 +107,7 @@ python3 data_analysis/visualization.py
 - **OOP**: Object-oriented programming concepts
 - **Data Analysis**: Working with NumPy arrays and Pandas DataFrames
 - **Visualization**: Creating informative charts and plots
+- **Notebooks**: Working with Jupyter Notebooks
 
 ## 📦 Dependencies
 
@@ -112,6 +115,7 @@ For data analysis examples, the following libraries are used:
 - **pandas** - Data manipulation and analysis
 - **numpy** - Numerical computing
 - **matplotlib** - Data visualization
+- **scikit-learn** - Machine Learning
 
 All dependencies are listed in `requirements.txt`.
 
@@ -129,12 +133,29 @@ This repository requires all changes to be submitted via Pull Requests:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+## 📚 Resources
+
+### Python for Data Analysis
+<img src="https://wesmckinney.com/book/images/cover.png" alt="Python for Data Analysis" width="200"/>
+
+The comprehensive guide to data analysis with Python by Wes McKinney (creator of Pandas).
+- [Python for Data Analysis - 3rd Edition](https://wesmckinney.com/book/)
+
+### Mathematics of Machine Learning
+<img src="https://camo.githubusercontent.com/d8c97bfaf2906f56e6fb726ff3ed573297e67a9a4d8fc44cf4acbbb2bf5d49cd/68747470733a2f2f636f6e74656e742e7061636b742e636f6d2f4233323130342f636f7665725f696d6167655f736d616c6c2e6a7067" alt="Mathematics of Machine Learning" width="200"/>
+
+An open-source book covering the mathematical foundations of machine learning.
+- [Mathematics of Machine Learning Book](https://github.com/cosmic-cortex/mathematics-of-machine-learning-book/blob/main/README.md)
+
+### Numerical Python
+<img src="https://jrjohansson.github.io/images/numericalpython-cover-ed3.jpg" alt="Numerical Python" width="200">
+
+Comprehensive tutorial and reference for scientific computing with Python, NumPy, and SciPy. The modern version of the legendary "Numerical Recipes in C".
+- [Numerical Python](https://jrjohansson.github.io/numericalpython.html)
+
 ## 🎯 Next Steps
 
 After working through these examples, consider:
-- Exploring Jupyter notebooks for interactive analysis
-- Learning about web frameworks like Flask or Django
+- Learning about web frameworks like Streamlit, Chainlit, Flask or Django
 - Diving deeper into machine learning with scikit-learn
 - Contributing to open-source Python projects
-
-Happy coding! 🐍
