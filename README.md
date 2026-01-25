@@ -30,7 +30,7 @@ Data Science with Jupyter Notebooks. The environment has been enabled to use Jup
 - **machine_learning_iris_flowers** - Machine Learning with the public standard learning dataset
 - **azure_blob_storage.ipynb** - Demonstrates a typical Machine Learning workflow with Azure Blob Storage
 - **excel_and_csv.ipynb** - Shows how to read Excel and CSV files
- - **visualization.ipynb** - Matplotlib inline plots (line, bar, scatter, subplots, pie, box, stacked area, correlation heatmap) with Pandas integration
+- **visualization.ipynb** - Matplotlib inline plots (line, bar, scatter, subplots, pie, box, stacked area, correlation heatmap) with Pandas integration
 
 ## 🚀 Getting Started
 
