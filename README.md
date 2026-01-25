@@ -27,7 +27,7 @@ Explore data science with popular libraries:
 Data Science with Jupyter Notebooks. The environment has been enabled to use Jupyter Notebooks.
 - **example_notebook.jpynb** - Simple notebook as starter.
 - **numpy_comprehensive.ipynb** - Comprehensive NumPy tutorial covering arrays, operations, linear algebra, statistics, and more
-- **machine_learning_iris_flowers** - Machine Learning with the public standard learning dataset
+- **machine_learning_iris_flowers.ipynb** - Machine Learning with the public standard learning dataset
 - **azure_blob_storage.ipynb** - Demonstrates a typical Machine Learning workflow with Azure Blob Storage
 - **excel_and_csv.ipynb** - Shows how to read Excel and CSV files
 - **visualization.ipynb** - Matplotlib inline plots (line, bar, scatter, subplots, pie, box, stacked area, correlation heatmap) with Pandas integration
